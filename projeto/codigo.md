@@ -4,7 +4,9 @@
 
 Rapaz codamos demais
 
-- ta vendo código aí
+ ```
+ print("codigo")
+ ```
 
 sim mano
 
